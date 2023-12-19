@@ -9,8 +9,8 @@ This repository contains a simple Hangman game written in Python. It's dockerize
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/hangman.git
-cd hangman
+gh repo clone kapoorsaumitra/hangman-dockerized
+cd hangman-dockerized
 ```
 
 #### 2. Build the Docker Image
